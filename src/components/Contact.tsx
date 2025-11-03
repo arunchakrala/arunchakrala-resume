@@ -4,7 +4,7 @@ const contactDetails = {
   email: 'jobsforarunchakrala2@gmail.com',
   phone: '+91-9063844526',
   linkedin: 'https://www.linkedin.com/in/arunchakrala',
-  github: 'https://github.com/yourgithubusername' // Update to your username
+  github: 'https://github.com/arunchakrala' // Update to your username
 };
 
 const Contact: React.FC = () => (
