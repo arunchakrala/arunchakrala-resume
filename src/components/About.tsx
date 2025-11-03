@@ -47,7 +47,7 @@ const About: React.FC = () => {
             <i className="fab fa-linkedin"></i> LinkedIn
           </a>
           <a
-            href="https://www.linkedin.com/in/arunchakrala/"
+            href="https://github.com/arunchakrala"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: '#fff', fontSize: '2rem' }}
