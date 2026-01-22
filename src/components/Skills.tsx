@@ -17,7 +17,7 @@ const skills = {
     'Nginx', 'HTTPS configuration'
   ],
   'Databases': [
-    'TimescaleDB', 'PostgreSQL', 'SQL', 'MySQL'
+     'PostgreSQL', 'SQL', 'MySQL'
   ],
   'Identity Management': [
     'Keycloak'
@@ -31,9 +31,9 @@ const skills = {
   'Scripting & Tools': [
     'PowerShell', 'PnP PowerShell', 'ShareGate Migration Tool', 'Microsoft Graph API'
   ],
-  'Languages': [
-    'Python', 'JavaScript', 'TypeScript', 'C', 'Go', 'JSON', 'XML'
-  ]
+  // 'Languages': [
+  //   'Python', 'JavaScript', 'TypeScript', 'C', 'Go', 'JSON', 'XML'
+  // ]
 };
 
 const Skills: React.FC = () => (
